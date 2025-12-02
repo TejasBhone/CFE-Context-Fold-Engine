@@ -1,19 +1,11 @@
 # OWNER DECLARATION — Context Fold Engine (CFE)
 
-I, Tejas Bhone, am the original creator and sole rights holder of the following:
+I, **Tejas Bhone**, hereby declare that I am the sole creator and intellectual property owner of the architecture, terminology, structural design, and conceptual frameworks contained in this repository.
 
-• The Context Fold Engine (CFE)
-• Its core architecture and stability mechanics
-• All defined cycles, flow layers, and structural logic
-• All derivative system prompts, submodules, and extensions authored by me
+This repository exists as an official timestamped public record preserving authorship and ownership.  
+Any reuse, reproduction, distribution, commercial integration, or derivative creation requires **explicit written consent** from the author.
 
-This declaration formalizes my ownership and establishes precedence for all legal,
-commercial, research, and licensing contexts.
+For commercial licensing, enterprise usage, research partnerships, or extended rights inquiries, contact:  
+**tejasbhone95@gmail.com**
 
-Any individual, team, organization, or corporation seeking to use, integrate,
-adapt, or commercialize this system—fully or partially—must obtain explicit,
-written permission and licensing.
-
-Signed,  
-**Tejas Bhone (2025)**  
-Original Author & IP Holder  
+— Tejas Bhone (2025)
