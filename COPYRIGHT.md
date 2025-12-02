@@ -1,12 +1,9 @@
-© 2025 Tejas Bhone. All Rights Reserved.
+Copyright © 2025 Tejas Bhone  
+All Rights Reserved.  
 
-This repository contains the proprietary architectural design, conceptual framework,
-and intellectual property of the Context Fold Engine (CFE).
+This repository contains original intellectual property created by Tejas Bhone.  
+All architecture, terminology, structural patterns, diagrams, and conceptual frameworks described herein are protected under international copyright law.
 
-All names, structures, mechanisms, cycles, logic flows, and system-level design patterns
-defined here are the original work of Tejas Bhone.
+No portion of this work may be reproduced, redistributed, reverse-engineered, adapted, or integrated into any product, system, or commercial offering without explicit written permission from the author.
 
-Unauthorized reproduction, modification, commercial deployment, or derivative frameworks
-built from this architecture are strictly prohibited without explicit written permission.
-
-This document serves as formal public notice of ownership.
+Unauthorized use—commercial, academic, or research-based—constitutes infringement and may result in legal action.
